@@ -173,7 +173,7 @@ export const skills = [
   {
     id: 14,
       name: "Adobe Xd",
-      stat: "65%",
+      stat: "75%",
       image: "images/adobexd.svg",
   },
 ]
