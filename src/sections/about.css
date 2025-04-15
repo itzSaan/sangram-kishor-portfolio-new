@@ -1,0 +1,31 @@
+#about {
+    /* height: 100vh; */
+    background-image: url("https://images.pexels.com/photos/90764/man-studio-portrait-light-90764.jpeg");
+    background-size: cover;
+    background-position: center center;    
+}
+
+#about .about-wrap {
+    max-width: 920px;
+    background-color: #24242450;
+    backdrop-filter: blur(5px);
+    box-shadow: 2px 4px 8px #0008;
+    padding: 2.5rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+#about .about-wrap .about-text {
+    font-size: 1.25rem;
+    line-height: 1.2;
+    color: rgba(255, 255, 255, 0.6);
+    font-weight: 300;
+}
+
+@media (min-width : 768px) {
+    #about .about-wrap {
+        padding: 4rem;
+    }
+}
