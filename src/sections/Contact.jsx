@@ -1,7 +1,7 @@
 import Footer from '../components/Footer'
 import emailjs from '@emailjs/browser';
-import './contact.css'
-import SuccessModal from '../components/successModal'
+import './contact.css';
+import SuccessModal from '../components/SuccessModal';
 import ErrorModal from '../components/ErrorModal';
 import { useRef, useState } from 'react';
 
