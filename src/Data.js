@@ -1,43 +1,62 @@
 
 export const  projects = [
+    
+  {
+    id: 0,  
+    title: "SocialMan Website",
+      subtitle: "React, Tailwindcss",
+      description:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      image: "./images/works/socialman.webp",
+      link: "https://www.socialman.co.in/",
+    },
+  {
+    id: 1,  
+    title: "Wisetech Website",
+      subtitle: "PHP, PHPMailer, Bootstrap",
+      description:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      image: "./images/works/wisetech.webp",
+      link: "http://www.wisetech.rf.gd/",
+    },
     {
-      id: 0,  
-      title: "Health Pro Website",
-        subtitle: "React API fetch",
+       id: 2,  
+      title: "Hotel Sunbay Website",
+        subtitle: "HTML, CSS, JavaScript, Bootstrap",
         description:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./images/works/health-pro.png",
-        link: "https://health-pro.vercel.app",
-      },
-      {
-        id: 1,
-        title: "Astrause Gym Site",
-        subtitle: "React API fetch",
-        description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./images/works/gym-site.png",
-        link: "https://gym-site-tau.vercel.app",
-      },
-    {
-      id: 2,
-        title: "Tic Tac Toe Game",
-        subtitle: "MERN Stack",
-        description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./images/works/Tic-tac-toe.png",
-        link: "https://tic-tac-toe-game-delta-one.vercel.app",
+        image: "./images/works/hotelsunbay.webp",
+        link: "https://hotelsunbay.in",
       },
       {
         id: 3,
-        title: "Password Generator App",
-        subtitle: "MERN Stack",
+        title: "Movie App",
+        subtitle: "React API fetch, Tailwindcss, Appwrite",
         description:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./images/works/password-generator.png",
-        link: "https://codepen.io/itz_saan/pen/jOxMdZv",
+        image: "./images/works/movie-web-app.webp",
+        link: "https://movie-web-app-mocha-psi.vercel.app/",
+      },
+    {
+      id: 4,
+        title: "Notes App",
+        subtitle: "React, ExpressJS, MongoDB, NodeJS",
+        description:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        image: "./images/works/notes-app.webp",
+        link: "#",
       },
       {
-        id: 4,
+        id: 5,
+        title: "Transport Management System",
+        subtitle: "PHP, MySQL, Bootstrap",
+        description:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        image: "./images/works/tms.webp",
+        link: "",
+      },
+      {
+        id: 6,
         title: "JavaScript Note App",
         subtitle: "MERN Stack",
         description:
@@ -46,7 +65,7 @@ export const  projects = [
         link: "https://codepen.io/itz_saan/pen/BaJWpOJ",
       },
       {
-        id: 5,
+        id: 7,
         title: "Tenzies Game using React",
         subtitle: "React",
         description:
@@ -55,7 +74,7 @@ export const  projects = [
         link: "https://tenzies-game-olive.vercel.app",
       },
       {
-        id: 6,
+        id: 8,
         title: "JavaScript Analog/Digital Clock",
         subtitle: "MERN Stack",
         description:
@@ -64,7 +83,7 @@ export const  projects = [
         link: "https://codepen.io/itz_saan/pen/OJbqRqJ",
       },
       {
-        id: 7,
+        id: 9,
         title: "Random Advice Generator App",
         subtitle: "React API fetch",
         description:
@@ -73,7 +92,7 @@ export const  projects = [
         link: "https://codepen.io/itz_saan/pen/PoQpzjy",
       },
       {
-        id: 8,
+        id: 10,
         title: "JavaScript Todo App",
         subtitle: "JavaScript App",
         description:
