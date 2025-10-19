@@ -17,7 +17,7 @@ Experience in designing software like Photoshop, Corel draw, Figma, Adobe XD etc
                                 </p>                                                            
                             </div>
                             <div className="btn-container">
-                                <a href="Sangram Kishor.pdf" target="_blank" className="my-btn"><i className="ri-download-line"></i> Download CV</a>
+                                <a href="https://drive.google.com/file/d/1PI2-0nC5q05xdiizDn0Rw4r9umA96MFg/view?usp=sharing" target="_blank" className="my-btn"><i className="ri-download-line"></i> Download CV</a>
                             </div>
             </div>
             </div>
